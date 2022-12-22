@@ -1,6 +1,9 @@
 [submodule "IDA_data_markup"]
 	path = IDA_data_markup
 	url = https://github.com/V-Gorash/IDA_data_markup.git
+[submodule "IDA_inference"]
+	path = IDA_inference
+	url = https://github.com/V-Gorash/IDA_inference.git
 [submodule "CovidSegmentation"]
 	path = CovidSegmentation
 	url = https://github.com/Grischenkov/CovidSegmentation
